@@ -1,0 +1,1 @@
+python "%~dp0dev-setup.py"
